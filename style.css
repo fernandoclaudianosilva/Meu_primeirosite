@@ -1,0 +1,62 @@
+head{
+				
+background-image:url(./img/game2.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+		
+body{
+
+
+    text-align: center;
+}
+ h1{
+text-align: center;
+ }
+
+ul{
+	padding:0;
+	list-style-type: none;
+	display: flex;
+	justify-content: space-between;
+	
+	
+}
+
+li{
+	border-radius: 18px;
+	background-color:gray;
+	padding: 40px;
+}
+
+
+li:hover a{
+
+background-color: black;
+color: grey;
+
+}
+a{ h
+	background-color: orange;
+	color:black;
+}
+
+img{
+
+	align-items: center;
+	border-radius: 18px;
+}
+
+
+
+
+.titulo {
+	border-radius: 30px;
+	padding: 5px;
+   background-color:black; 
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: darkgrey;
+
+ 
+}
